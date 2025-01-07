@@ -1,0 +1,100 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: #3560bb;
+    color: #fff;
+    padding: 20px;
+}
+
+nav {
+    background-color: #406194;
+    color: #fff;
+    padding: 10px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+main{
+    padding: 20px;
+}
+
+.gastronomia{
+    border-radius: 25px;
+    margin: 50px;
+    padding: 5px;
+    color: #fff;
+    background-color: #3560bb;
+}
+
+.article {
+    background-color: #3560bb;
+    border-radius: 25px;
+    margin-bottom: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: #ffffff;
+    margin: 50px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding: 5px
+}
+
+footer {
+    background-color:#3560bb;
+    color: white;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+.Contacto{
+    font-family:  Arial, Helvetica, sans-serif;
+    color: #fff; 
+    background-color: #3560bb;
+    padding: 20px;
+}
+
+.link{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+
+.imgRegiones {
+    align-items: center;
+    background-color: #fff;
+    border-radius: 25px;
+    width: 500px;
+    height: 300px;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: large;
+}
+
+a{
+    text-decoration: none;    
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
